@@ -89,6 +89,9 @@ public class Main {
                     System.out.println("Removing!");
                     squares.remove(squares.size() - 1);
                 }
+            } else if (Mouse.getEventButton() == 2) {
+                System.out.println("Clearing!");
+                squares.clear();
             }
         }
     }

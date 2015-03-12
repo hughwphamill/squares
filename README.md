@@ -2,7 +2,7 @@
 Solution to Reddit /r/dailyprogrammer [2015-2-23] Challenge #203 [Easy] The Start of Something Big
 
 ## Purpose
-Generate random squares of different colours and opacities on mouse clicks, right click removes the last square.
+Generate random squares of different colours and opacities on mouse clicks, right click removes the last square, scroll wheel click clears the screen.
 
 http://www.reddit.com/r/dailyprogrammer/comments/2ww3pl/2015223_challenge_203_easy_the_start_of_something/
 
